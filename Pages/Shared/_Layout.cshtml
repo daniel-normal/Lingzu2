@@ -12,9 +12,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Lingzu</a>
+                <a class="navbar-brand text-light" asp-area="" asp-page="/Index">Lingzu</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,10 +22,19 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-light" asp-area="" asp-page="/Index">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-light" asp-area="" asp-page="/Index">Productos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-page="/Index">Clientes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-page="/Index">Ventas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-page="/Privacy">Pólitica de Privacidad</a>
                         </li>
                     </ul>
                 </div>
@@ -38,10 +47,15 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Lingzu - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
+    <footer class="border-top footer text-muted bg-dark">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            <li class="nav-item"><a asp-page="/Index" class="nav-link px-2 text-light">Inicio</a></li>
+            <li class="nav-item"><a asp-page="/Privacy" class="nav-link px-2 text-light">Productos</a></li>
+            <li class="nav-item"><a asp-page="/Index" class="nav-link px-2 text-light">Clientes</a></li>
+            <li class="nav-item"><a asp-page="/Index" class="nav-link px-2 text-light">Ventas</a></li>
+            <li class="nav-item"><a asp-page="/Index" class="nav-link px-2 text-light">Pólitica de Privacidad</a></li>
+        </ul>
+        <p class="text-center text-body-secondary">&copy; 2023 Lingzu, Inc</p>
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
