@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SA19vmIO/8LXe+nqqQpt6gHbCOsurz+IkwR+vxCLBWA=",
+  "Hash": "W5C/Y/DeR1vVlgaVFKBiOj+kNtCueKfb4KOsccvKF4k=",
   "Source": "Lingzu",
   "BasePath": "_content/Lingzu",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Daniel\\Desktop\\Lingzu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Lingzu.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Daniel\\Desktop\\Lingzu\\wwwroot\\css\\carousel.css",
+      "SourceId": "Lingzu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\Desktop\\Lingzu\\wwwroot\\",
+      "BasePath": "_content/Lingzu",
+      "RelativePath": "css/carousel.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\carousel.css"
     },
     {
       "Identity": "C:\\Users\\Daniel\\Desktop\\Lingzu\\wwwroot\\css\\site.css",
