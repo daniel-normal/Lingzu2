@@ -31,3 +31,14 @@ body {
         font-size: 3.5rem;
     }
 }
+
+.circulo {
+    width: 320px;
+    height: 320px;
+    float: right;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.circulo img {
+    float: right;
+}
