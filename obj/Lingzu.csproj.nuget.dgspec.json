@@ -1,38 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj": {}
+    "C:\\Users\\Daniel\\Desktop\\Lingzu\\Lingzu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Lingzu\\Lingzu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Lingzu\\Lingzu.csproj",
         "projectName": "Lingzu",
-        "projectPath": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj",
-        "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\obj\\",
-=======
-    "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj",
-        "projectName": "Lingzu",
-        "projectPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj",
-        "packagesPath": "C:\\Users\\elcha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\obj\\",
->>>>>>> 9a3a5e6aca574b468d6d281f0bc30150fe065639
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Lingzu\\Lingzu.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Lingzu\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
