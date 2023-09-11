@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj": {}
+    "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj": {
+    "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj",
+        "projectUniqueName": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj",
         "projectName": "Lingzu",
-        "projectPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj",
+        "projectPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj",
         "packagesPath": "C:\\Users\\elcha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\obj\\",
+        "outputPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
