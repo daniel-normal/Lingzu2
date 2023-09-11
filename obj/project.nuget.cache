@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FWcmL4oP/a2TS+HcBDXpyPYrHKIWzK4SzauqlTP+VPC34gIycLZHdy52AfXph1PgzFuesY4dfl9NK8l/pHr4WA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj",
+=======
+  "dgSpecHash": "+IGZ7QMCOGo4I3B8LfnmGTyq7ZwSRBivkfiab5WSq8XzMiuUB+don8yv0RVIFunR9O5JQJ1JOkITiuO5LR/ZYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\lingzu\\Lingzu\\Lingzu.csproj",
+>>>>>>> 9a3a5e6aca574b468d6d281f0bc30150fe065639
   "expectedPackageFiles": [
     "C:\\Users\\Bryan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
