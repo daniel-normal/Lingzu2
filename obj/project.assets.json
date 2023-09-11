@@ -2014,23 +2014,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elcha\\.nuget\\packages\\": {},
+    "C:\\Users\\Bryan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj",
+      "projectUniqueName": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj",
       "projectName": "Lingzu",
-      "projectPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\Lingzu.csproj",
-      "packagesPath": "C:\\Users\\elcha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elcha\\OneDrive\\Escritorio\\Lingzu\\Lingzu\\obj\\",
+      "projectPath": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\Lingzu.csproj",
+      "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bryan\\Desktop\\Lingzu\\Lingzu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\elcha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
