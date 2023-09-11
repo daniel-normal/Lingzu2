@@ -1,0 +1,66 @@
+﻿@page
+@model Lingzu.Pages.ContactoModel
+@{
+    var contactos = new List<Contacto>
+    {
+        new Contacto
+        {
+            Nombre = "Persona 1",
+            Telefono = "123-456-7890",
+            GitHub = "https://github.com/persona1",
+            CorreoElectronico = "persona1@example.com"
+        },
+        new Contacto
+        {
+            Nombre = "Persona 2",
+            Telefono = "987-654-3210",
+            GitHub = "https://github.com/persona2",
+            CorreoElectronico = "persona2@example.com"
+        },
+        new Contacto
+        {
+            Nombre = "Persona 3",
+            Telefono = "555-555-5555",
+            GitHub = "https://github.com/persona3",
+            CorreoElectronico = "persona3@example.com"
+        },
+        new Contacto
+        {
+            Nombre = "Persona 4",
+            Telefono = "111-222-3333",
+            GitHub = "https://github.com/persona4",
+            CorreoElectronico = "persona4@example.com"
+        },
+        new Contacto
+        {
+            Nombre = "Persona 5",
+            Telefono = "999-888-7777",
+            GitHub = "https://github.com/persona5",
+            CorreoElectronico = "persona5@example.com"
+        }
+    };
+}
+
+<h1>Lista de Contactos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Teléfono</th>
+            <th>GitHub</th>
+            <th>Correo Electrónico</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contacto in contactos)
+        {
+            <tr>
+                <td>@contacto.Nombre</td>
+                <td>@contacto.Telefono</td>
+                <td><a href="@contacto.GitHub" target="_blank">@contacto.GitHub</a></td>
+                <td>@contacto.CorreoElectronico</td>
+            </tr>
+        }
+    </tbody>
+</table>
