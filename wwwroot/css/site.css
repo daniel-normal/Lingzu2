@@ -32,13 +32,43 @@ body {
     }
 }
 
-.circulo {
-    width: 320px;
-    height: 320px;
+
+
+
+
+
+
+
+
+
+section {
     float: right;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    width: 380px;
+    height: 230px;
 }
 
-.circulo img {
+section img {
+        width: 0px;
+        flex-grow: 1;
+        object-fit: cover;
+        opacity: .8;
+        transition: .5s ease;
+}
+
+ section img:hover {
+            cursor: crosshair;
+            width: 150px;
+            opacity: 1;
+            filter: contrast(120%)
+ }
+
+.seccion2 {
+    float: left;
+}
+
+.circulo {
+    width: 220px;
+    height: 220px;
     float: right;
 }
