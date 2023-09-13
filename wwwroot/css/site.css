@@ -72,3 +72,22 @@ section img {
     height: 220px;
     float: right;
 }
+
+/*Imagen centro*/
+
+.conter {
+    position: relative;
+    width: 140px; /* Ajusta el ancho al tamaño del círculo SVG */
+    height: 140px; /* Ajusta el alto al tamaño del círculo SVG */
+}
+
+.redondo {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 100px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* ajusta el tamaño de la imagen */
+    border-radius: 100%; 
+}
