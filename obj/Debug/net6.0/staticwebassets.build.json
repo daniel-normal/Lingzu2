@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EFqc9exjT+kRP73SpBSpckWxEjoIr/roWayLSsGGHqA=",
+  "Hash": "7Bct+xsgxNZQQNwyPN1YR2gkqzHPjez+2fM8Zb2wY5A=",
   "Source": "Lingzu",
   "BasePath": "_content/Lingzu",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\carousel.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Lingzu\\Lingzu\\wwwroot\\css\\Contacto.css",
+      "SourceId": "Lingzu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Lingzu\\Lingzu\\wwwroot\\",
+      "BasePath": "_content/Lingzu",
+      "RelativePath": "css/Contacto.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Contacto.css"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\Lingzu\\Lingzu\\wwwroot\\css\\site.css",

@@ -1,0 +1,31 @@
+﻿/* Style the table within the Contacto page */
+.contacto-page table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Style table headers */
+.contacto-page th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* Style table cells */
+.contacto-page td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+    /* Style links within table cells */
+    .contacto-page td a {
+        text-decoration: none;
+        color: #007bff;
+    }
+
+        /* Style links on hover */
+        .contacto-page td a:hover {
+            text-decoration: underline;
+        }
