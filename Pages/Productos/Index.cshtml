@@ -1,0 +1,48 @@
+﻿@page
+@model Lingzu.Pages.Productos.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Productos Joran</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Producto[0].NombreProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Producto[0].PrecioProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Producto[0].CantidadProducto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Producto) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadProducto)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ProductoId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ProductoId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ProductoId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

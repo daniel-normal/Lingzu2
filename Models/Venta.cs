@@ -21,5 +21,11 @@ namespace Lingzu.Models
         [StringLength(35, MinimumLength = 1)]
         [RegularExpression(@"^\d+$")]
         public string NumeroVenta { get; set; } = string.Empty;
+
+        
+      
+
+        //agregar propiedad de ralacion
+        public Cliente? Clientes { get; set; }
     }
 }

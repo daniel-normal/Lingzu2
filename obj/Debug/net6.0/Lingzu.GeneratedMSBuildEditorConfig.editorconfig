@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\elcha\OneDrive\Escritorio\lingzu\Lingzu
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Contacto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,8 +52,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Productos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Productos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Productos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Productos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Ventas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Ventas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Ventas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Ventas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/Ventas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elcha/OneDrive/Escritorio/lingzu/Lingzu/Pages/_ViewImports.cshtml]

@@ -31,5 +31,8 @@ namespace Lingzu.Models
         [StringLength(35, MinimumLength = 4)]
         [RegularExpression(@"^\d+$")]
         public string Nit { get; set; } = string.Empty;
+
+        // Agregar una colección de ventas relacionadas
+        public ICollection<Venta> Ventas { get; set; } = new List<Venta>();
     }
 }

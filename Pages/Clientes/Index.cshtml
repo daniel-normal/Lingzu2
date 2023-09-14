@@ -1,0 +1,54 @@
+﻿@page
+@model Lingzu.Pages.Clientes.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].ApellidoP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].ApellidoM)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Nit)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Cliente) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApellidoP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApellidoM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nit)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ClienteId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ClienteId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ClienteId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

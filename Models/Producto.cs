@@ -24,5 +24,7 @@ namespace Lingzu.Models
         [Required]
         [RegularExpression(@"^\d+$")]
         public int CantidadProducto { get; set; }
+
+        
     }
 }
