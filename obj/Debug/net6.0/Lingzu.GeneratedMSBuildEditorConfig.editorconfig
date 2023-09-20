@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lingzu
 build_property.RootNamespace = Lingzu
-build_property.ProjectDir = C:\Users\Daniel\Desktop\Lingzu\Lingzu\
+build_property.ProjectDir = C:\Users\USUARIO\Downloads\LingzuGit\Lingzu\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Daniel\Desktop\Lingzu\Lingzu
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Downloads\LingzuGit\Lingzu
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Contacto.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Contacto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Error.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Index.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Privacy.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/_ViewImports.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/_ViewStart.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Desktop/Lingzu/Lingzu/Pages/Shared/_Layout.cshtml]
+[C:/Users/USUARIO/Downloads/LingzuGit/Lingzu/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5o95dfcbtr
